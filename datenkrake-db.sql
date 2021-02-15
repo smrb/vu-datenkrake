@@ -166,4 +166,3 @@ ALTER TABLE `SquadKicks`
 
 ALTER TABLE `WeaponChanges`
   MODIFY `id` int(11) NOT NULL AUTO_INCREMENT;
-COMMIT;
