@@ -13,7 +13,7 @@ vu-datenkrake is a mod for venice unleshead, created to log rounds, connections,
 * modify DB credentials in datenkrake.php
 
 #### on your gameserver server ... folder ./datenkrake/
-* edit ./datenkrake/ext/server/\__init__.lua to point to your datenkrake.php
+* edit ./datenkrake/ext/server/\_\_init\_\_.lua to point to your datenkrake.php
 * move the datenkrake subfolder into ./Mods/ and add to ModList ( https://docs.veniceunleashed.net/hosting/mods/ )
 * restart your server
 
