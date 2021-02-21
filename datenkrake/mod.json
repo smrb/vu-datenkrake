@@ -1,7 +1,7 @@
 {
-    "Name": "Datenkrake v1.2.1 Alpha",
+    "Name": "Datenkrake v1.2.2 Alpha 2",
     "Description": "Beware of the datenkrake. A mod for collecting game events.",
-    "Version": "1.2.1",
+    "Version": "1.2.2",
     "HasVeniceEXT": true,
     "Dependencies": {
         "veniceext": "^1.0.0"
