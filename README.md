@@ -1,5 +1,13 @@
-# vu-datenkrake v1.2.1 Alpha (partly untested) by SmR.b
+# vu-datenkrake v1.2. Alpha (partly untested) by SmR.b
 vu-datenkrake is a mod for venice unleshead, created to log rounds, connections, kills and other server events.
+
+## Working / Tested Events:
+* Round start / End logging
+* Connection Start / End logging
+* Weapon Changes 
+* Suppressions and Kills
+
+Other stuff like Linking Connections to Rounds is not yet working and needs debugging.
 
 ## Installing the mod ...
 ### Requirements
